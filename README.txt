@@ -1,18 +1,8 @@
-Lucas Turano
-2420768
-turano@chapman.edu
-CPSC350-02
-Programming Assignment 2: Not so super mario
+This is a simple take on Super Mario Bros. The game creates a 2d array of a mario level complete with coins, mushrooms, goombas, koopas, a warp pipe
+and a boss. Mario randomly moves in a randomly generated direction and interacts with the element in the level array. Mario can collect coins, power
+ups and defeat enemies. Mario must defeat the boss or find the warp pipe to move onto the next level and save the princess!
 
-main.cpp
-FileProessor.cpp
-Mario.cpp
-World.cpp
 
-I referenced cplusplus.com
-
+Run commands:
 g++ -o test *.cpp
-./test input.txt output.txt
-
-Known bugs: for some reason when I try to print power level and num coins on every turn it just print 0, but when a coin or mushroom is collected
-it prints the correct amount of the item
+./test
