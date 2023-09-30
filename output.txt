@@ -1,0 +1,288 @@
++=+=+=+=+=+=+=+=+=+=+=+=+=+Onto the next level!+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+Level 1
+starting world
+w k m x x 
+x x x c c 
+c m k b x 
+x c x m m 
+x H g g x 
+move 0
+Level number: 1
+Mario position 4, 1
+Current power level: 0
+the position is empty
+------Mario moves left------
+w k m x x 
+x x x c c 
+c m k b x 
+x c x m m 
+H x g g x 
+Num lives: 3
+----------------
+move 1
+Level number: 1
+Mario position 4, 0
+Current power level: 0
+the position is empty
+------Mario moves left------
+w k m x x 
+x x x c c 
+c m k b x 
+x c x m m 
+x x g g H 
+Num lives: 3
+----------------
+move 2
+Level number: 1
+Mario position 4, 4
+Current power level: 0
+---Mario collected a mushroom, current PL = 1
+------Mario moves up------
+w k m x x 
+x x x c c 
+c m k b x 
+x c x m H 
+x x g g x 
+Num lives: 3
+----------------
+move 3
+Level number: 1
+Mario position 3, 4
+Current power level: 0
+the position is empty
+------Mario moves up------
+w k m x x 
+x x x c c 
+c m k b H 
+x c x m x 
+x x g g x 
+Num lives: 3
+----------------
+move 4
+Level number: 1
+Mario position 2, 4
+Current power level: 0
+==Mario collected a coin==
+Coins: 1
+------Mario moves right------
+w k m x x 
+x x x c c 
+H m k b x 
+x c x m x 
+x x g g x 
+Num lives: 3
+----------------
+move 5
+Level number: 1
+Mario position 2, 0
+Current power level: 0
+the position is empty
+------Mario moves up------
+w k m x x 
+H x x c c 
+x m k b x 
+x c x m x 
+x x g g x 
+Num lives: 3
+----------------
+move 6
+Level number: 1
+Mario position 1, 0
+Current power level: 0
+the position is empty
+------Mario moves right------
+w k m x x 
+x H x c c 
+x m k b x 
+x c x m x 
+x x g g x 
+Num lives: 3
+----------------
+move 7
+Level number: 1
+Mario position 1, 1
+Current power level: 0
+the position is empty
+------Mario moves left------
+w k m x x 
+H x x c c 
+x m k b x 
+x c x m x 
+x x g g x 
+Num lives: 3
+----------------
+move 8
+Level number: 1
+Mario position 1, 0
+Current power level: 0
+--Mario found a warp pipe!--
++=+=+=+=+=+=+=+=+=+=+=+=+=+Onto the next level!+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+Level 2
+------Mario moves up------
+H k x b m 
+x g m x x 
+c x x c x 
+x c m x x 
+m c x k w 
+Num lives: 3
+----------------
+move 9
+Level number: 2
+Mario position 0, 0
+Current power level: 0
+Mario defeated a koopa
+--Mario defeated an enemy--
+------Mario moves right------
+x H x b m 
+x g m x x 
+c x x c x 
+x c m x x 
+m c x k w 
+Num lives: 3
+----------------
+move 10
+Level number: 2
+Mario position 0, 1
+Current power level: 0
+the position is empty
+------Mario moves left------
+H x x b m 
+x g m x x 
+c x x c x 
+x c m x x 
+m c x k w 
+Num lives: 3
+----------------
+move 11
+Level number: 2
+Mario position 0, 0
+Current power level: 0
+---Mario collected a mushroom, current PL = 2
+------Mario moves up------
+x x x b m 
+x g m x x 
+c x x c x 
+x c m x x 
+H c x k w 
+Num lives: 3
+----------------
+move 12
+Level number: 2
+Mario position 4, 0
+Current power level: 0
+--Mario found a warp pipe!--
++=+=+=+=+=+=+=+=+=+=+=+=+=+Onto the next level!+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+Level 3
+------Mario moves left------
+g x c x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k c m H 
+Num lives: 3
+----------------
+move 13
+Level number: 3
+Mario position 4, 4
+Current power level: 0
+Max power level reached
+------Mario moves left------
+g x c x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k c H x 
+Num lives: 3
+----------------
+move 14
+Level number: 3
+Mario position 4, 3
+Current power level: 0
+==Mario collected a coin==
+Coins: 2
+------Mario moves left------
+g x c x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k H x x 
+Num lives: 3
+----------------
+move 15
+Level number: 3
+Mario position 4, 2
+Current power level: 0
+==Mario collected a coin==
+Coins: 3
+------Mario moves down------
+g x H x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k x x x 
+Num lives: 3
+----------------
+move 16
+Level number: 3
+Mario position 0, 2
+Current power level: 0
+the position is empty
+------Mario moves left------
+g H x x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k x x x 
+Num lives: 3
+----------------
+move 17
+Level number: 3
+Mario position 0, 1
+Current power level: 0
+the position is empty
+------Mario moves down------
+g x x x x 
+x H m k x 
+x x x x m 
+x b c c m 
+x k x x x 
+Num lives: 3
+----------------
+move 18
+Level number: 3
+Mario position 1, 1
+Current power level: 0
+the position is empty
+------Mario moves up------
+g H x x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k x x x 
+Num lives: 3
+----------------
+move 19
+Level number: 3
+Mario position 0, 1
+Current power level: 0
+Mario lost to a koopa
+-----mario lost a PL------
+---Current PL = 1
+------Mario stays still------
+------Mario moves up------
+g H x x x 
+x x m k x 
+x x x x m 
+x b c c m 
+x k x x x 
+Num lives: 3
+----------------
+move 20
+Level number: 3
+Mario position 0, 1
+Current power level: 0
+Mario lost to a koopa
+-----mario lost a PL------
+!====Mario lost a life====!
+++++Num Lives remaining -1
+game over!
